@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ismael, a Full-Stack Developer 👨‍💻 working with [Kinesso](https://kinesso.com/) 🚀</div>  
+### <div align="center">Hi✌🏻, I'm Ismael, a Full-Stack Developer 👨‍💻 working with [Kinesso](https://kinesso.com/) 🚀</div>  
   
 
 - 🔭 Working at [Kinesso](https://kinesso.com/)  
