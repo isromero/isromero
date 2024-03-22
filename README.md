@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi✌🏻, I'm Ismael, a Full-Stack Developer 👨‍💻 working with [Kinesso](https://kinesso.com/) 🚀</div>
+### <div align="center">Hi✌🏻! I'm Ismael. Not just a Full-Stack Developer, but a creator at heart, always eager to build and explore beyond code. 😎</div>
 
 - 🔭 Looking for new opportunities...
 
