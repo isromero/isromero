@@ -1,16 +1,18 @@
 <div align="center">
-<img src="https://gifdb.com/images/high/pepe-the-frog-dankies-ei0jcebxovnt9qv8.gif" align="center" height="" width="600" />
+<img src="https://gifdb.com/images/high/pepe-the-frog-dankies-ei0jcebxovnt9qv8.gif" align="center" height="" width="150" />
 </div>  
   
 
-### <div align="center">Hi✌🏻, I'm Ismael, a Full-Stack Developer 👨‍💻 working with [Kinesso](https://kinesso.com/) 🚀</div>  
-  
+### <div align="center">Hi✌🏻, I'm Ismael, a Full-Stack Developer 👨‍💻 working with [Kinesso](https://kinesso.com/) 🚀</div>
 
-- 🔭 Working at [Kinesso](https://kinesso.com/)  
-  
+- 🔭 Looking for new opportunities...
+
+
+- 🧠 Front-End Developer & Founding Partner of [Climind](https://climind.com/)
+
 
 - 🌱 Learning Software Engineering at [42Madrid](https://www.42madrid.com/)  
-  
+
 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ismaelromeroortega/) or visit my [Portfolio](https://ismael-romero.com/)  
   
