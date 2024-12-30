@@ -9,17 +9,15 @@
 
 ## About me
 
-- 💻 Software Developer. Specialized in Web Development.
-- 🌱 Follow me on [LinkedIn](https://www.linkedin.com/in/ismaelromeroortega/) for content about programming, personal development and more!
-- 💼 Principal Full-Stack Developer at BBVA - Hasten Group.
-- 💼 Frontend Developer & Founding Partner at [Climind](https://www.linkedin.com/company/climind/)
+- 💼 Full Engineer at SOLO (new york startup)
+- 🌱 Follow me on [LinkedIn](https://www.linkedin.com/in/ismaelromeroortega/) and on [YouTube](https://www.youtube.com/@isromero) for content about programming, personal development and more!
 - 👨🏻‍💻 Visit my [Portfolio](https://ismael-romero.com) for more info
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
+<a href="https://github.com/isromero">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=isromero&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isromero&layout=compact&langs_count=8&theme=algolia"/>
 </a>
