@@ -9,7 +9,7 @@
 
 ## About me
 
-- 💼 Full Engineer at SOLO (new york startup)
+- 💼 Full Stack Engineer at SOLO (new york startup)
 - 🌱 Follow me on [LinkedIn](https://www.linkedin.com/in/ismaelromeroortega/) and on [YouTube](https://www.youtube.com/@isromero) for content about programming, personal development and more!
 - 👨🏻‍💻 Visit my [Portfolio](https://ismael-romero.com) for more info
 <br>
