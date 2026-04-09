@@ -8,7 +8,7 @@
 
 ## About me
 
-- 💼 Full Stack Engineer at SOLO (new york startup)
+- 💼 Product Engineer at Qamarero
 - 🌱 Follow me on [LinkedIn](https://www.linkedin.com/in/ismaelromeroortega/) and on [YouTube](https://www.youtube.com/@isromero) for content about programming, personal development and more!
 
 ### ⚙️ &nbsp;GitHub Analytics
