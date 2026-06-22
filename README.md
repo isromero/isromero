@@ -1,16 +1,3 @@
-<div align="center">
-<h1 align="center">Hi, I'm <a href="https://ismael-romero.com">Ismael</a> 😎</h1>
-</div>
-
-<img src="https://github.com/user-attachments/assets/1ce2cc1e-fb39-42ba-8692-62615ae1161e" width="100%"  />
-
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismaelromeroortega/)
-
-## About me
-
-- 💼 Product Engineer at Qamarero
-- 🌱 Follow me on [LinkedIn](https://www.linkedin.com/in/ismaelromeroortega/) and on [YouTube](https://www.youtube.com/@isromero) for content about programming, personal development and more!
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
