@@ -11,7 +11,7 @@ left my job with 0 MRR to go all in. now building my own products full time, fro
 
 #### open source
 
-- **[switchyard](https://github.com/isromero/switchyard)**, routes GitHub Actions jobs across CI runner providers, free minutes first.
+- **[switchyard](https://github.com/isromero/switchyard)**, picks the runner for each GitHub Actions run: your idle machines first, then cloud providers, free minutes before paid.
 - **[cograft](https://github.com/isromero/cograft)**, makes any project agent-ready, with isolated parallel environments for you and your AI agents.
 
 <br>
