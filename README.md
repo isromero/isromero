@@ -4,7 +4,7 @@ left my job with 0 MRR to go all in. now building my own products full time, fro
 
 #### building
 
-- **[Pomelo](https://trypomelo.app)**, an app for long-distance couples. *soon*
+- **[Pomelo](https://trypomelo.app)**, an app for long-distance couples.
 - **LatteArt**, an app for baristas who want to improve their latte art. *soon*
 - **Ma (間)**, a family of productivity apps, each the best at one thing, all synced with each other. *soon*
 - **[No Lazy People](https://nolazypeople.com)**, a community of doers. small meetups to make real connections.
